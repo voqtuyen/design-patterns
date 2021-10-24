@@ -7,5 +7,7 @@ Implement common examples for creational, structural and behavioral design patte
 ### Singleton Pattern
 
 
+### Factory Pattern
+
 
 ## Reference
